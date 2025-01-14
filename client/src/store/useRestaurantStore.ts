@@ -4,7 +4,7 @@ import axios from "axios";
 import { MenuItem, RestaurantState } from "@/types/restaurantType";
 import { toast } from "sonner";
 import { Orders } from "@/types/orderTypes";
-const API_END_POINT = "http://localhost:8000/api/v1/restaurant";
+const API_END_POINT = "https://food-paradise-ovjb.onrender.com/api/v1/restaurant";
 axios.defaults.withCredentials = true;
 export const useRestaurantStore = create<RestaurantState>()(persist((set,get) => ({
     loading: false,
