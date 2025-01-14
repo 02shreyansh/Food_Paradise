@@ -11,7 +11,7 @@ import orderRoute from "./routes/order"
 import multer from "multer";
 import path from "path";
 const app = express();
-const PORT = process.env.PORT || 10000
+const PORT = process.env.PORT || 10000 
 const DIRNAME=path.resolve();
 app.use(bodyParser.json({ limit: '10mb' }));
 app.use(express.urlencoded({ limit: '10mb', extended: true }));
@@ -40,7 +40,7 @@ app.use((err:any, req:any, res:any, next:NextFunction) => {
     next(err);
 });
 
-app.listen(PORT, () => {
+app.listen(PORT as number, '0.0.0.0', () => {
     connectDb(process.env.MONGOURI!)
     console.log(`server is running on port ${PORT}`)
 })
