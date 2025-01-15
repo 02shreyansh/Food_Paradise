@@ -11,7 +11,7 @@ import orderRoute from "./routes/order"
 import multer from "multer";
 import path from "path";
 const app = express();
-const PORT = process.env.PORT || 10000 
+const PORT = process.env.PORT! || 10000 
 const DIRNAME=path.resolve();
 app.use(bodyParser.json({ limit: '10mb' }));
 app.use(express.urlencoded({ limit: '10mb', extended: true }));
