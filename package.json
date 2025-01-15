@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "devBuild":"tsc",
     "watch": "tsc -w",
-    "dev": "nodemon server/index.ts",
+    "dev": "nodemon server/dist/index.js",
     "stripe":"stripe listen --forward-to localhost:8000/api/v1/order/webhook",
     "build":"npm install && npm install --prefix client && npm run build --prefix client",
-    "start":"nodemon server/index.ts"
+    "start":"nodemon server/dist/index.js"
   },
   "keywords": [],
   "author": "",
