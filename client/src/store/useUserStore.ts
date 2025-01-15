@@ -3,7 +3,7 @@ import { createJSONStorage, persist } from "zustand/middleware"
 import axios from "axios"
 import { toast } from "sonner";
 import { LoginProps, SignupProps } from "@/schema/userSchema";
-const API_END_POINT = "https://food-paradise-ovjb.onrender.com/api/v1/user";
+const API_END_POINT = "https://food-paradise-3zpn.onrender.com/api/v1/user";
 axios.defaults.withCredentials = true;
 
 type User = {

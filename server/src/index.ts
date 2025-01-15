@@ -18,7 +18,7 @@ app.use(express.urlencoded({ limit: '10mb', extended: true }));
 app.use(express.json());
 app.use(cookieParser());
 const corsOptions = {
-    origin: ["https://food-paradise-ovjb.onrender.com"],
+    origin: ["https://food-paradise-3zpn.onrender.com"],
     credentials: true,
 }
 app.use(cors(corsOptions));

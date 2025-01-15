@@ -3,7 +3,7 @@ import { create } from "zustand";
 import axios from "axios"
 import { persist, createJSONStorage } from "zustand/middleware"
 import { toast } from "sonner";
-const API_END_POINT: string = "https://food-paradise-ovjb.onrender.com/api/v1/order";
+const API_END_POINT: string = "https://food-paradise-3zpn.onrender.com/api/v1/order";
 axios.defaults.withCredentials = true;
 
 export const useOrderStore = create<OrderState>()(persist((set) => ({
