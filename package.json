@@ -4,10 +4,10 @@
   "main": "index.js",
   "scripts": {
     "watch": "tsc -w",
-    "dev": "nodemon server/src/index.ts",
+    "dev": "nodemon server/index.ts",
     "stripe":"stripe listen --forward-to localhost:8000/api/v1/order/webhook",
     "build":"npm install && npm install --prefix client && npm run build --prefix client",
-    "start":"nodemon server/src/index.ts"
+    "start":"nodemon server/index.ts"
   },
   "keywords": [],
   "author": "",
