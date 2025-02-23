@@ -79,6 +79,4 @@ We welcome contributions! Follow these steps to contribute:
 ## 👤 Developer
 This project was independently developed by **Shreyansh**. It demonstrates the impact of digital menu management, offering cost efficiency and enhanced user experience.  
 
----
-
-Hope this helps! Let me know if you need any modifications. 🚀  
+  
