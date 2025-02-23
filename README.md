@@ -25,9 +25,11 @@
 🔗 [Food Paradise - Live Site](https://food-paradise-3zpn.onrender.com/)
 
 ## 🖼️ Screenshots
-![Homepage](./images/homepage(mobile).gif)  
-![Menu Page](./images/homepage(mobile).png)  
-![Order Page](./images/homepage(mobile).png)  
+<p align="center">
+  <img src="images/homepage(mobile).gif" width="30%">
+  <img src="images/homepage(mobile).gif" width="30%">
+  <img src="images/homepage(mobile).gif" width="30%">
+</p>  
 
 > *(Make sure to add these images in the `/images` directory of your project.)*
 
