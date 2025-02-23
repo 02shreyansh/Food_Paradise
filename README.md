@@ -25,13 +25,35 @@
 🔗 [Food Paradise - Live Site](https://food-paradise-3zpn.onrender.com/)
 
 ## 🖼️ Screenshots
+## Desktop
 <p align="center">
-  <img src="images/homepage(mobile).gif" width="30%">
-  <img src="images/homepage(mobile).gif" width="30%">
-  <img src="images/homepage(mobile).gif" width="30%">
-</p>  
+  <img src="images/desktop/homepage.png" width="250" height="200" style="object-fit: cover;
+  background-position: center;" >
+  <img src="images/desktop/menus.png" width="250" height="200" style="object-fit: cover;
+  background-position: center;">
+  <img src="images/desktop/cart.png" width="250" height="200" style="object-fit: cover;
+  background-position: center;">
+  <img src="images/desktop/profile.png" width="250" height="200" style="object-fit: cover;
+  background-position: center;">
+  <img src="images/desktop/signup.png" width="250" height="200" style="object-fit: cover;
+  background-position: center;">
+  <img src="images/desktop/signin.png" width="250" height="200" style="object-fit: cover;
+  background-position: center;">
+</p> 
 
-> *(Make sure to add these images in the `/images` directory of your project.)*
+## Mobile 
+<p align="center">
+  <img src="images/mobile/homepage(mobile).gif" width="250" height="200" style="object-fit: cover;
+  background-position: center;">
+  <img src="images/mobile/landing_page(mobile).png" width="250" height="200" style="object-fit: cover;
+  background-position: center;">
+  <img src="images/mobile/profile(mobile).png" width="250" height="200" style="object-fit: cover;
+  background-position: center;">
+</p>
+
+> *(ScreenShots of Food Paradise App aka Food App)*
+
+---
 
 ## Contribution Guidelines 🤝
 We welcome contributions! Follow these steps to contribute:
