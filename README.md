@@ -31,6 +31,27 @@
 
 > *(Make sure to add these images in the `/images` directory of your project.)*
 
+## Contribution Guidelines 🤝
+We welcome contributions! Follow these steps to contribute:
+
+1. Fork the repository.
+2. Clone your fork:  
+   ```bash
+   git clone https://github.com/your-username/Food_Paradise.git
+   ```
+3. Create a new branch:  
+   ```bash
+   git checkout -b feature-name
+   ```
+4. Make your changes and commit:  
+   ```bash
+   git commit -m "Added new feature"
+   ```
+5. Push to your fork and submit a Pull Request:  
+   ```bash
+   git push origin feature-name
+   ```
+
 ## 👤 Developer
 This project was independently developed by **Shreyansh**. It demonstrates the impact of digital menu management, offering cost efficiency and enhanced user experience.  
 
