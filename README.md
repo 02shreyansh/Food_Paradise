@@ -26,8 +26,8 @@
 
 ## 🖼️ Screenshots
 ![Homepage](./images/homepage(mobile).png)  
-![Menu Page](./images/menu.png)  
-![Order Page](./images/order.png)  
+![Menu Page](./images/homepage(mobile).png)  
+![Order Page](./images/homepage(mobile).png)  
 
 > *(Make sure to add these images in the `/images` directory of your project.)*
 
