@@ -25,7 +25,7 @@
 🔗 [Food Paradise - Live Site](https://food-paradise-3zpn.onrender.com/)
 
 ## 🖼️ Screenshots
-![Homepage](./images/homepage.png)  
+![Homepage](./images/homepage(mobile).png)  
 ![Menu Page](./images/menu.png)  
 ![Order Page](./images/order.png)  
 
